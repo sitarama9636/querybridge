@@ -2,7 +2,7 @@ import argparse
 from langchain_chroma import Chroma
 from langchain_ollama import OllamaLLM
 from langchain.prompts import ChatPromptTemplate
-from get_embedding_function import get_embedding_function
+from app.get_embedding_function import get_embedding_function
 
 CHROMA_PATH = "chroma_vectordb"
 COLLECTION_NAME = "rag_collection"

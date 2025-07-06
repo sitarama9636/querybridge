@@ -12,3 +12,11 @@ chroma_vectordb/
 .DS_Store
 .idea/
 *.egg-info/
+tillian/
+*.pyc
+__pycache__/
+.env
+*.log
+*.dll
+*.lib
+models/
