@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+models/
+chroma_vectordb/
+*.db
+*.log
+*.zip
+.DS_Store
+.idea/
+*.egg-info/
