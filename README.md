@@ -6,7 +6,9 @@
 
 ## 🔍 Features
 
-- ✅ PDF/Confluence document loader
+- ✅ PDF/Confluence document loader 
+    NOTE: This repo expects a file in `docs/hrpolicymanual.pdf` which is not included due to confidentiality. Please place your own document in that path.
+
 - ✅ Recursive text chunking with unique chunk ID generation
 - ✅ HuggingFace/Bedrock/Ollama embedding support
 - ✅ ChromaDB for vector storage and semantic retrieval
