@@ -20,3 +20,16 @@ __pycache__/
 *.dll
 *.lib
 models/
+# Ignore all .pdf files anywhere
+*.pdf
+# Ignore all backup .py files
+*_bkp.py
+*_backup.py
+*bkp*.py
+*Learning.py
+# Ignore non related.py files
+load_Inference.py
+lora_api.py
+lora_finetune.py
+hr_rag_dataset.json
+checkpoint-49

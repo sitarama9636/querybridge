@@ -1,15 +1,18 @@
-fastapi==0.110.0
-uvicorn==0.29.0
+fastapi
+uvicorn
 
-langchain==0.1.13
-langchain-core==0.1.41
-langchain-community==0.0.28
-langchain-chroma==0.1.0
-langchain-ollama==0.1.0
-langchain-huggingface==0.0.1  # <-- NEW
+langchain
+langchain-core
+langchain-community
+langchain-chroma
+langchain-ollama
+langchain-huggingface
 
-chromadb==0.4.24
+chromadb
 
-pydantic==2.7.1
-tqdm==4.66.4
-PyPDF2==3.0.1
+pydantic
+tqdm
+PyPDF2
+
+datasets
+transformers
